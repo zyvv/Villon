@@ -1,5 +1,5 @@
 ## Villon有什么用？
-Villon可以将你喜欢的Instagram图片或者视频保存至手机相册.
+Villon可以将你喜欢的Instagram图片或者视频保存至手机相册。
 
 ## Villon怎么使用？
 
